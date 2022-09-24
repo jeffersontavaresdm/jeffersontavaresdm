@@ -5,13 +5,11 @@
 - 🌱 Atualmente Estudando: **Autenticação (JWT, Token, Basic Auth, OAuth2 e etc)**
 - 🧑‍💻 Principais Tecnologias: **Java/Kotlin/Spring**
 
-<div align="center" width="50">
-
-<img src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
+<div align="center">
+<details><summary>My Stats</summary>
     
 <br>
     
-<div align="center" >
 <a  href="https://github.com/jeffersontavaresdm">
 
 <img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/2077/0-profile-details.svg">
@@ -21,10 +19,14 @@
 <img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/2077/2-most-commit-language.svg">
 
 </a>
-
-<hr></hr>
-
 </div>
+</details>
+
+<div align="center" width="50">
+
+<img src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
+    
+<br>
     
 ![Snake animation](https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/output/github-contribution-grid-snake.svg)
     
