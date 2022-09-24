@@ -14,7 +14,7 @@
 - Fun fact: ***In early versions of "The Hobbit", Bilbo Baggins wounds Smaug with the sting.***
 
 <div align="center">
-<details><summary>My Stats</summary>
+<details><summary>Stats</summary>
     
 <br>
     
@@ -59,6 +59,8 @@
   <a href="https://www.instagram.com/jeffersontdm_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
+    
+#
     
 <br>
 
