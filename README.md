@@ -14,17 +14,18 @@
 - Fun fact: ***In early versions of "The Hobbit", Bilbo Baggins wounds Smaug with the sting.***
 
 <div align="center">
-<details><summary>Stats</summary>
+<details>
+<summary>Stats</summary>
     
 <br>
     
 <a  href="https://github.com/jeffersontavaresdm">
 
-<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/2077/0-profile-details.svg">
-<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/2077/3-stats.svg">
-<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/2077/4-productive-time.svg">
-<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/2077/3-stats.svg">
-<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/2077/2-most-commit-language.svg">
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/nord_dark/3-stats.svg">
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/nord_dark/4-productive-time.svg">
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/nord_dark/3-stats.svg">
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
 
 </a>
 </div>
@@ -43,8 +44,6 @@
 ### 🎧 Vibing to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bucky2dgod&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/login)
-
-#
     
 <img src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/letterbox.gif?raw=true" width="70px">
     
@@ -59,8 +58,6 @@
   <a href="https://www.instagram.com/jeffersontdm_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
-    
-#
     
 <br>
 
