@@ -23,11 +23,10 @@
 
 <div align="center">
     
-<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/3-stats.svg">
-<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/4-productive-time.svg">
-<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/1-repos-per-language.svg">
-<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/2-most-commit-language.svg">
-<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/0-profile-details.svg" width="60%">
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/3-stats.svg" width="35%">
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/4-productive-time.svg" width="35%">
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/1-repos-per-language.svg" width="35%">
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/2-most-commit-language.svg" width="35%">
     
 </div>
 
@@ -38,7 +37,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
+<img src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="70%"/>
     
 <br>
     
