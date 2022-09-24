@@ -7,11 +7,11 @@
 </div>
 
 ### Some information:
-✨ Currently Working: ***Back-End Development in a Web Service with Kotlin and Spring.***<br>
-✨ Currently Studying: ***Authentication & Authorization.***<br>
-✨ Main Technologies: ***Java/Kotlin/Spring.***<br>
-✨ Ask me about: ***Fighting games, Heavy Metal, Movies and anything else.***<br>
-✨ Fun fact: ***In early versions of "The Hobbit", Bilbo Baggins wounds Smaug with the sting.***
+- Currently Working: ***Back-End Development in a Web Service with Kotlin and Spring.***
+- Currently Studying: ***Authentication & Authorization.***
+- Main Technologies: ***Java/Kotlin/Spring.***
+- Ask me about: ***Fighting games, Heavy Metal, Movies and anything else.***
+- Fun fact: ***In early versions of "The Hobbit", Bilbo Baggins wounds Smaug with the sting.***
 
 <div align="center">
 <details>
@@ -21,14 +21,19 @@
     
 <a  href="https://github.com/jeffersontavaresdm">
 
+<div align="center">
+    
 <img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/3-stats.svg">
 <img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/4-productive-time.svg">
 <img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/1-repos-per-language.svg">
 <img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/2-most-commit-language.svg">
-<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/0-profile-details.svg">
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/0-profile-details.svg" width="60%">
+    
+</div>
 
 </a>
 </div>
+    
 </details>
 
 <div align="center" width="50">
