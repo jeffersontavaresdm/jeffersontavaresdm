@@ -1,16 +1,47 @@
-### Hi there 👋
+<h1 align="center">🙋‍♂️ Oi! Eu sou o <em>Jefferson</em> 😄</h1>
 
-<!--
-**jeffersontavaresdm/jeffersontavaresdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Algumas informações sobre mim:
+- 🔭 Atualmente Trabalhando: **Desenvolvimento Back-End em um Web Service com Kotlin e Spring**
+- 🌱 Atualmente Estudando: **Autenticação (JWT, Token, Basic Auth, OAuth2 e etc)**
+- 🧑‍💻 Principais Tecnologias: **Java/Kotlin/Spring**
 
-Here are some ideas to get you started:
+<div align="center" width="50">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
+    
+<br>
+    
+<div align="center" >
+<a  href="https://github.com/jeffersontavaresdm">
+
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+<img src="https://raw.githubusercontent.com/jeffersontavaresdm/profile-summary-cards/master/profile-summary-card-output/github_dark/3-stats.svg?token=GHSAT0AAAAAABXJ4IXE6SJ7DOTW55343XHCYZOMYJA">
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github_dark/4-productive-time.svg">
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+<img src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+
+</a>
+
+<hr></hr>
+
+</div>
+    
+![Snake animation](https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/output/github-contribution-grid-snake.svg)
+    
+#
+    
+<br>
+    
+<strong>🎧 Vibing to:</strong></p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bucky2dgod&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/login)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jefferson-tavares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/jeffersontdm" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/JFFTXD" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/jeffersontdm#1604" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/jeffersontdm_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+</div>
+</div>
