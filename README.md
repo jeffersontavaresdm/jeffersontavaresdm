@@ -7,10 +7,10 @@
 </div>
 
 ### Some information:
-✨ Currently Working: ***Back-End Development in a Web Service with Kotlin and Spring.***
-✨ Currently Studying: ***Authentication & Authorization.***
-✨ Main Technologies: ***Java/Kotlin/Spring.***
-✨ Ask me about: ***Fighting games, Heavy Metal, Movies and anything else.***
+✨ Currently Working: ***Back-End Development in a Web Service with Kotlin and Spring.***<br>
+✨ Currently Studying: ***Authentication & Authorization.***<br>
+✨ Main Technologies: ***Java/Kotlin/Spring.***<br>
+✨ Ask me about: ***Fighting games, Heavy Metal, Movies and anything else.***<br>
 ✨ Fun fact: ***In early versions of "The Hobbit", Bilbo Baggins wounds Smaug with the sting.***
 
 <div align="center">
