@@ -1,10 +1,8 @@
-<div align="center">
-<h1>
+<h1 align="center">
 <img width="5%" src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/Developer.gif" width="25"/>
     Hi! I'm <em>Jefferson</em>
 <img width="5%" src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/Developer.gif" width="25"/>
 </h1>
-</div>
 
 ### Some information:
 - Currently Working: ***Back-End Development in a Web Service with Kotlin and Spring.***
