@@ -1,7 +1,7 @@
 <h1 align="center">
-<img width="5%" src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/Developer.gif" width="25"/>
+<img align="left" width="5%" src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/Developer.gif" width="25"/>
     Hi! I'm <em>Jefferson</em>
-<img width="5%" src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/Developer.gif" width="25"/>
+<img align="right" width="5%" src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/Developer.gif" width="25"/>
 </h1>
 
 ### Some information:
