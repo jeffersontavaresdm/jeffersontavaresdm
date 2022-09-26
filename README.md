@@ -43,7 +43,7 @@
     
 #
     
-### :headphones: _Enjoying_ :headphones:
+### :notes: :headphones: _Enjoying_ :headphones: :notes:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bucky2dgod&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/login)
     
