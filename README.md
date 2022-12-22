@@ -5,7 +5,7 @@
 </h1>
 
 ### Some information:
-- Currently Working: ***Back-End Development in a Web Service with Kotlin and Spring.***
+- Currently Working: ***In personal projects using a broad base of technologies to acquire new knowledge.***
 - Currently Studying: ***JavaScript/HTML/CSS - Typescript/React.***
 - Main Technologies: ***Java/Kotlin/Spring.***
 - Ask me about: ***Fighting games, Heavy Metal, Movies and anything else.***
