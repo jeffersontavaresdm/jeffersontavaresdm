@@ -48,7 +48,7 @@
 
 <div align="center" >
   <details >
-    <summary >Stats</summary >
+    <summary style="cursor: pointer" >Stats</summary >
     <br >
     <a href="https://github.com/jeffersontavaresdm" >
       <div align="center" >
