@@ -2,13 +2,13 @@
   <img
       width="5%"
       src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/Developer.gif"
-      alt="img1"
+      alt="coding1"
   />
   Hi! I'm <em >Jefferson</em >
   <img
       width="5%"
       src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/Developer.gif"
-      alt="img2"
+      alt="coding2"
   />
 </h1 >
 
@@ -54,16 +54,20 @@
       <div align="center" >
         <img
             src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/3-stats.svg"
-            width="35%" alt="img3" >
+            width="35%"
+            alt="stat1" >
         <img
             src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/4-productive-time.svg"
-            width="35%" alt="img4" >
+            width="35%"
+            alt="stat2" >
         <img
             src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/1-repos-per-language.svg"
-            width="35%" alt="img5" >
+            width="35%"
+            alt="stat3" >
         <img
             src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/2-most-commit-language.svg"
-            width="35%" alt="img6" >
+            width="35%"
+            alt="stat4" >
       </div >
     </a >
   </details >
@@ -71,13 +75,14 @@
 
 <div align="center" >
   <img
+      width="70%"
       src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/dev-working_rounded.gif?raw=true"
-      alt="I'm programming" width="70%"
+      alt="i-am-programming"
   />
+
   <br >
 
-  ![Snake
-  animation](https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/output/github-contribution-grid-snake.svg)
 
   <hr >
 
@@ -88,46 +93,47 @@
   <img
       src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/letterbox.gif?raw=true"
       width="70px"
-      alt="img7"
+      alt="letterbox"
   />
+
   <br >
   <br >
+
   <div align="center" >
-    <a
-        href="https://www.linkedin.com/in/jefferson-tavares" target="_blank" >
+    <a href="https://www.linkedin.com/in/jefferson-tavares" target="_blank" >
       <img
           src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-          alt="img8"
+          alt="web1"
       >
     </a >
     <a href="https://t.me/jeffersontdm" target="_blank" >
       <img
           src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-          alt="img9"
+          alt="web2"
       >
     </a >
     <a href="https://twitter.com/JFFTXD" target="_blank" >
       <img
           src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-          alt="img10"
+          alt="web3"
       >
     </a >
     <a href="https://discord.com/users/jeffersontdm#1604" target="_blank" >
       <img
           src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-          alt="img11"
+          alt="web4"
       >
     </a >
     <a href="https://www.instagram.com/jeffersontdm_" target="_blank" >
       <img
           src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-          alt="img12"
+          alt="web5"
       >
     </a >
   </div >
   <br >
   <img
       src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/this_page_is.gif?raw=true"
-      alt="img13"
+      alt="end"
   />
 </div >
