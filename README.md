@@ -4,7 +4,7 @@
       src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/Developer.gif"
       alt="coding1"
   />
-  Hi! I'm <em >Jefferson</em >
+  Hi! I'm Jefferson
   <img
       width="5%"
       src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/Developer.gif"
@@ -48,7 +48,7 @@
 
 <div align="center" >
   <details >
-    <summary style="cursor: pointer" >Stats</summary >
+    <summary style="cursor: pointer; width: 50px" >Stats</summary >
     <br >
     <a href="https://github.com/jeffersontavaresdm" >
       <div align="center" >
