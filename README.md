@@ -48,7 +48,9 @@
 
 <div align="center" >
   <details >
-    <summary style="cursor: pointer; width: 50px" >Stats</summary >
+    <summary >
+      <span style="cursor: pointer; width: 50px" >Stats</span >
+    </summary >
     <br >
     <a href="https://github.com/jeffersontavaresdm" >
       <div align="center" >
@@ -90,13 +92,14 @@
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bucky2dgod&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/login)
 
+  <br/>
+  
   <img
       src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/letterbox.gif?raw=true"
       width="70px"
       alt="letterbox"
   />
 
-  <br >
   <br >
 
   <div align="center" >
@@ -132,8 +135,11 @@
     </a >
   </div >
   <br >
+  
   <img
       src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/this_page_is.gif?raw=true"
       alt="end"
   />
+  
+  <hr/>
 </div >
