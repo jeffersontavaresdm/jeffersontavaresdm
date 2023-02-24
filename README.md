@@ -23,7 +23,7 @@
   <li >
     Currently Studying:
     <b ><i >
-      JavaScript/HTML/CSS - Typescript/React.
+      A little AWS and GCP.
     </i ></b >
   </li >
   <li >
