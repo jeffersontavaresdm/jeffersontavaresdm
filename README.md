@@ -23,7 +23,7 @@
   <li >
     Currently Studying:
     <b ><i >
-      A little AWS and GCP.
+      GO.
     </i ></b >
   </li >
   <li >
