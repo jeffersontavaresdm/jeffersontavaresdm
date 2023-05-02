@@ -17,7 +17,7 @@
   <li >
     Currently Working:
     <b ><i >
-      In personal projects using a broad base of technologies to acquire new knowledge.
+      Working on an open source project made with GO.
     </i ></b >
   </li >
   <li >
