@@ -23,7 +23,7 @@
   <li >
     Currently Studying:
     <b ><i >
-      GO.
+      React Native.
     </i ></b >
   </li >
   <li >
