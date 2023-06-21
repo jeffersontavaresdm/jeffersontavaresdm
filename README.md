@@ -17,7 +17,7 @@
   <li >
     Currently Working:
     <b ><i >
-      Working on an open source project made with GO.
+      Working on an open source project made with GO/Fiber/Kubebuilder.
     </i ></b >
   </li >
   <li >
