@@ -84,8 +84,6 @@
 
   <br >
 
-  ![Snake animation](https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/output/github-contribution-grid-snake.svg)
-
   <hr >
 
   ### :notes: :headphones: _Enjoying_ :headphones: :notes:
