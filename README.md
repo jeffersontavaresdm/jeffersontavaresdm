@@ -63,7 +63,7 @@
             width="35%"
             alt="stat4" >
         
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeffersontavaresdm&bg_color=0d1117&color=FFFFFF&line=7e22ce&point=7e22c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeffersontavaresdm&bg_color=0d1117&color=FFFFFF&line=7e22ce&point=7e22c0&area=true&hide_border=true&width=70%)](https://github.com/ashutosh00710/github-readme-activity-graph)
       </div >
     </a >
   </details >
