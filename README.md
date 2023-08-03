@@ -1,5 +1,5 @@
 <h1 align="center" >
-  
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Hi%2C+My+name+is+Jefferson+Tavares%3B+I'm+a+back-end+developer%3BBe+Welcome!+%3A%29)](https://git.io/typing-svg)
   
 </h1 >
@@ -61,9 +61,9 @@
         <img
             src="https://github.com/jeffersontavaresdm/profile-summary-cards/raw/master/profile-summary-card-output/github/2-most-commit-language.svg"
             width="35%"
-            alt="stat4" >
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeffersontavaresdm&bg_color=0d1117&color=FFFFFF&line=7e22ce&point=7e22c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+            alt="stat4" ><br/>
+        
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeffersontavaresdm&bg_color=FFF&color=03254c&line=03254c&point=03254c&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
       </div >
     </a >
   </details >
