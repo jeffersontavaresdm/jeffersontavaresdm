@@ -1,5 +1,7 @@
 <h1 align="center" >
 
+
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Hi%2C+My+name+is+Jefferson+Tavares%3B+I'm+a+back-end+developer%3BBe+Welcome!+%3A%29)](https://git.io/typing-svg)
   
 </h1 >
@@ -63,7 +65,7 @@
             width="35%"
             alt="stat4" ><br/>
         
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeffersontavaresdm&radius=10&height=300&bg_color=FFF&color=03254c&line=03254c&point=03254c&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffersontavaresdm&radius=10&height=400&bg_color=FFF&color=03254c&line=03254c&point=03254c&area=true"  width="70%" >
       </div >
     </a >
   </details >
