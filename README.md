@@ -9,13 +9,13 @@
   <li >
     Currently Working:
     <b ><i >
-      Working on an open source project made with GO/Fiber/Kubebuilder.
+      Personal project to improve the concepts encompassed by observability.
     </i ></b >
   </li >
   <li >
     Currently Studying:
     <b ><i >
-      React Native.
+      Observability.
     </i ></b >
   </li >
   <li >
