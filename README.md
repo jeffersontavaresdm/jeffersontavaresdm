@@ -7,31 +7,31 @@
 <h3 >Some information:</h3 >
 <ul >
   <li >
-    Currently Working:
+    <b>Currently Working:</b>
     <i >
       Contributing to software development for insurance and financial markets at <b><a href="http://ntendencia.com.br" target="_blank">Nova</a></b>
     </i >
   </li >
   <li >
-    Currently Studying:
+    <b>Currently Studying:</b>
     <i >
       Test-Driven Development (TDD).
     </i >
   </li >
   <li >
-    Main Technologies:
+    <b>Main Technologies:</b>
     <i >
       Java/Kotlin with Spring framework.
     </i >
   </li >
   <li >
-    Ask me about:
+    <b>Ask me about:</b>
     <i >
       Fighting games, Heavy Metal, Movies, or anything else.
     </i >
   </li >
   <li >
-    Fun fact:
+    <b>Fun fact:</b>
     <i >
       In early versions of "The Hobbit," Bilbo Baggins wounds Smaug with the sting.
     </i >
