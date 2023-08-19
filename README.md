@@ -8,33 +8,33 @@
 <ul >
   <li >
     Currently Working:
-    <b ><i >
-      Contributing to software development for insurance and financial markets at <a href="http://ntendencia.com.br" target="_blank">Nova</a>
-    </i ></b >
+    <i >
+      Contributing to software development for insurance and financial markets at <b><a href="http://ntendencia.com.br" target="_blank">Nova</a></b>
+    </i >
   </li >
   <li >
     Currently Studying:
-    <b ><i >
+    <i >
       Test-Driven Development (TDD).
-    </i ></b >
+    </i >
   </li >
   <li >
     Main Technologies:
-    <b ><i >
+    <i >
       Java/Kotlin with Spring framework.
-    </i ></b >
+    </i >
   </li >
   <li >
     Ask me about:
-    <b ><i >
+    <i >
       Fighting games, Heavy Metal, Movies, or anything else.
-    </i ></b >
+    </i >
   </li >
   <li >
     Fun fact:
-    <b ><i >
+    <i >
       In early versions of "The Hobbit," Bilbo Baggins wounds Smaug with the sting.
-    </i ></b >
+    </i >
   </li >
 </ul >
 
