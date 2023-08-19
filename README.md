@@ -9,7 +9,7 @@
   <li >
     Currently Working:
     <b ><i >
-      Personal project to improve the concepts encompassed by observability.
+      Helping build insurance software for <a href="http://ntendencia.com.br" target="_blank">Nova</a>.
     </i ></b >
   </li >
   <li >
