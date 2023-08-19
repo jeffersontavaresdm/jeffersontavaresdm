@@ -9,31 +9,31 @@
   <li >
     Currently Working:
     <b ><i >
-      Helping build insurance software for <a href="http://ntendencia.com.br" target="_blank">Nova</a>.
+      Contributing to software development for insurance and financial markets at <a href="http://ntendencia.com.br" target="_blank">Nova</a>
     </i ></b >
   </li >
   <li >
     Currently Studying:
     <b ><i >
-      Observability.
+      TDD
     </i ></b >
   </li >
   <li >
     Main Technologies:
     <b ><i >
-      Java/Kotlin/Spring.
+      Java/Kotlin/Spring
     </i ></b >
   </li >
   <li >
     Ask me about:
     <b ><i >
-      Fighting games, Heavy Metal, Movies and anything else.
+      Fighting games, Heavy Metal, Movies and anything else
     </i ></b >
   </li >
   <li >
     Fun fact:
     <b ><i >
-      In early versions of "The Hobbit", Bilbo Baggins wounds Smaug with the sting.
+      In early versions of "The Hobbit", Bilbo Baggins wounds Smaug with the sting
     </i ></b >
   </li >
 </ul >
