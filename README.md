@@ -15,25 +15,25 @@
   <li >
     Currently Studying:
     <b ><i >
-      TDD
+      Test-Driven Development (TDD).
     </i ></b >
   </li >
   <li >
     Main Technologies:
     <b ><i >
-      Java/Kotlin/Spring
+      Java/Kotlin with Spring framework.
     </i ></b >
   </li >
   <li >
     Ask me about:
     <b ><i >
-      Fighting games, Heavy Metal, Movies and anything else
+      Fighting games, Heavy Metal, Movies, or anything else.
     </i ></b >
   </li >
   <li >
     Fun fact:
     <b ><i >
-      In early versions of "The Hobbit", Bilbo Baggins wounds Smaug with the sting
+      In early versions of "The Hobbit," Bilbo Baggins wounds Smaug with the sting.
     </i ></b >
   </li >
 </ul >
