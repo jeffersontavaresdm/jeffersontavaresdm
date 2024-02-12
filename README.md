@@ -15,7 +15,7 @@
   <li >
     <b>Currently Studying:</b>
     <i >
-      Test-Driven Development (TDD).
+      React
     </i >
   </li >
   <li >
