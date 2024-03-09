@@ -27,7 +27,7 @@
   <li >
     <b>Ask me about:</b>
     <i >
-      Fighting games, Heavy Metal, Movies, or anything else.
+      Fighting games, Heavy Metal, Movies, or anything else :p
     </i >
   </li >
   <li >
