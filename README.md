@@ -15,7 +15,7 @@
   <li >
     <b>Currently Studying:</b>
     <i >
-      React
+      Python
     </i >
   </li >
   <li >
