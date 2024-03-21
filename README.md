@@ -15,7 +15,7 @@
   <li >
     <b>Currently Studying:</b>
     <i >
-      Python
+      Python and Flask
     </i >
   </li >
   <li >
