@@ -76,12 +76,8 @@
       alt="i-am-programming"
   />
 
-  <br >
-
-  ### :notes: :headphones: _Enjoying_ :headphones: :notes:
-
-  [![Spotify](https://novatorem-ln9dhwx87-jeffersontdms-projects.vercel.app/api/spotify)](https://open.spotify.com/user/bucky2dgod)
-
+  <br/>
+  <br/>
   <br/>
   
   <img
@@ -90,7 +86,7 @@
       alt="letterbox"
   />
 
-  <br >
+  <br/>
 
   <div align="center" >
     <a href="https://www.linkedin.com/in/jefferson-tavares" target="_blank" >
